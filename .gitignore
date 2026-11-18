@@ -2,3 +2,5 @@ node_modules/
 frames/
 snaps/
 *.log
+r*.log
+audio/_*
