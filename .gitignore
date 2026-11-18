@@ -4,3 +4,5 @@ snaps/
 *.log
 r*.log
 audio/_*
+snaps3/
+audio/*.wav
